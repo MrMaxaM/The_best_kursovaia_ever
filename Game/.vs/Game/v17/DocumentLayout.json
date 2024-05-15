@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\documents\\github\\the_best_kursovaia_ever\\game\\assets\\_heathen engineering\\assets\\breakable things\\wood props\\materials\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\_heathen engineering\\assets\\breakable things\\wood props\\materials\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\documents\\github\\the_best_kursovaia_ever\\game\\assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\documents\\github\\the_best_kursovaia_ever\\game\\assets\\scripts\\test_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,33 +33,20 @@
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\_Heathen Engineering\\Assets\\Breakable Things\\Wood Props\\Materials\\ReadMe.txt",
-              "RelativeDocumentMoniker": "Assets\\_Heathen Engineering\\Assets\\Breakable Things\\Wood Props\\Materials\\ReadMe.txt",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\_Heathen Engineering\\Assets\\Breakable Things\\Wood Props\\Materials\\ReadMe.txt",
-              "RelativeToolTip": "Assets\\_Heathen Engineering\\Assets\\Breakable Things\\Wood Props\\Materials\\ReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-13T19:40:12.175Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\NewBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\NewBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "DocumentIndex": 0,
+              "Title": "test_1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\test_1.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\test_1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\test_1.cs",
+              "RelativeToolTip": "Assets\\scripts\\test_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T22:30:12.084Z",
+              "WhenOpened": "2024-05-13T21:31:42.003Z",
               "EditorCaption": ""
             }
           ]
