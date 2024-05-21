@@ -2784,7 +2784,7 @@ LightingSettings:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   serializedVersion: 6
-  m_GIWorkflowMode: 1
+  m_GIWorkflowMode: 0
   m_EnableBakedLightmaps: 1
   m_EnableRealtimeLightmaps: 0
   m_RealtimeEnvironmentLighting: 1
@@ -3984,7 +3984,7 @@ Transform:
   m_GameObject: {fileID: 617186536}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -20, y: 20, z: -12}
+  m_LocalPosition: {x: -20, y: 22, z: -12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4002,7 +4002,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.7363685, b: 0.390566, a: 1}
-  m_Intensity: 8
+  m_Intensity: 12
   m_Range: 30
   m_SpotAngle: 90
   m_InnerSpotAngle: 9
@@ -4285,7 +4285,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.7363685, b: 0.390566, a: 1}
-  m_Intensity: 6
+  m_Intensity: 10
   m_Range: 30
   m_SpotAngle: 90
   m_InnerSpotAngle: 9
@@ -4344,7 +4344,7 @@ Transform:
   m_GameObject: {fileID: 930355036}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 7, y: 20, z: -7}
+  m_LocalPosition: {x: 7, y: 22, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
