@@ -4,14 +4,15 @@ using UnityEngine;
 
 public class open_inventory : MonoBehaviour
 {
-    public GameObject panel;
+    public GameObject inventory_panel;
 
     private void Start() 
     {
-        panel.SetActive(false);
+        inventory_panel.SetActive(false);
     }
-    private void OnMouseUp() 
+
+    private void OnMouseDown() 
     {
-        panel.SetActive(true);
+       inventory_panel.SetActive(true); 
     }
 }

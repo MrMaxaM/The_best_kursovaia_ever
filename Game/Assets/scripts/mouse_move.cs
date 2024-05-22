@@ -8,9 +8,6 @@ public class mouse_move : MonoBehaviour
     Vector3 mouse_position_old;
     Vector3 mouse_position;
 
-    //public float start_x;
-    //public float start_z;
-
     private int i = 0;
     void OnMouseDrag() 
         {
