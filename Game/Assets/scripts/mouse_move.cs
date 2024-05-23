@@ -8,7 +8,10 @@ public class mouse_move : MonoBehaviour
     Vector3 mouse_position_old;
     Vector3 mouse_position;
 
+
     private int i = 0;
+
+
     void OnMouseDrag() 
         {
             if(i == 0) mouse_position_old = Input.mousePosition;
@@ -22,18 +25,9 @@ public class mouse_move : MonoBehaviour
             i++;
         }
 
+
         void OnMouseDown() 
         {
             i = 0;
         }
-    
-   
-
-
-
-    
-
-
-
-    
     }
