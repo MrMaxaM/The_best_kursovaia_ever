@@ -1,12 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+using TMPro;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.ProBuilder.MeshOperations;
 
 public class parsing : MonoBehaviour
 {
+    public TMP_Text dialogtext;
+    public TMP_Text money;
+    public GameObject dialogbutton1;
+    //public GameObject dialogbutton2;
+
     static private string [] mods = {"WPN_AKM_magazine", "AKM_Shompol", "AKM_Cevie", "AKM_Cover", "AKM_Pruzhina", "AKM_Rukoyat", "AKM_Priklad"};
     
     static Dictionary <string, bool> moved_before = new Dictionary<string, bool>();
@@ -132,7 +138,15 @@ public class parsing : MonoBehaviour
                     if (!moved_before.ContainsKey(name))
                     {
                     moved_before.Add(name, true);
-                    }  
+                    }
+                    if (i_current_mod == -1)
+                    {
+                        dialogtext.text = "Ого, спасибо за работу! Надеюсь теперь он меня не подведёт. Вот, тебе за работу.";
+                        money.text = "2500 ₽";
+                        Destroy(dialogbutton1);
+                        //dialogbutton2.SetActive(true);
+                        Debug.Log("Сборка завершена");
+                    }
                 } 
             }
         }

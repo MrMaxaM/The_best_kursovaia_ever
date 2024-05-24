@@ -23,7 +23,6 @@ public class Radio_Musc : MonoBehaviour
         source = GetComponent<AudioSource>();
 
         //source.mute = true;
-        PlayMusic();
     }
 
     public void PlayMusic()

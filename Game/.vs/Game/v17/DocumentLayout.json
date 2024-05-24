@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\documents\\github\\the_best_kursovaia_ever\\game\\assets\\scripts\\close_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\close_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\documents\\github\\the_best_kursovaia_ever\\game\\assets\\scripts\\parsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\documents\\github\\the_best_kursovaia_ever\\game\\assets\\scripts\\fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\assets\\scripts\\close_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\close_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,27 +55,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "close_inventory.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\close_inventory.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\close_inventory.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\close_inventory.cs",
-              "RelativeToolTip": "Assets\\scripts\\close_inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "parsing.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\parsing.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\parsing.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\parsing.cs",
+              "RelativeToolTip": "Assets\\scripts\\parsing.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwJYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T20:46:31.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "fade.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\fade.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\fade.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\fade.cs",
-              "RelativeToolTip": "Assets\\scripts\\fade.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T20:34:22.853Z",
+              "WhenOpened": "2024-05-24T10:44:32.429Z",
               "EditorCaption": ""
             },
             {
@@ -81,6 +72,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "close_inventory.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\close_inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\close_inventory.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\close_inventory.cs",
+              "RelativeToolTip": "Assets\\scripts\\close_inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:46:31.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fade.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\fade.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\fade.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\fade.cs",
+              "RelativeToolTip": "Assets\\scripts\\fade.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:34:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "dialog.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\dialog.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\dialog.cs",
@@ -91,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Button.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "take_mod.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\GitHub\\The_best_kursovaia_ever\\Game\\Assets\\scripts\\take_mod.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\take_mod.cs",

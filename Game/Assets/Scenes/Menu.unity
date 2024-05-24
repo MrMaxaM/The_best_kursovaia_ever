@@ -1232,7 +1232,7 @@ GameObject:
   - component: {fileID: 530825371}
   - component: {fileID: 530825370}
   m_Layer: 0
-  m_Name: Plane (1)
+  m_Name: Plane chertezh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
